@@ -5,7 +5,7 @@
     <description>Aeon is a magazine of ideas and culture. We publish in-depth essays from the world’s most incisive and ambitious thinkers, and a mix of original and curated videos — free to all.</description>
     <copyright>All rights reserved</copyright>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 11:01:00 GMT</lastBuildDate>
     <link>https://aeon.co</link>
     <atom:link href="https://aeon.co/feed.rss" rel="self" type="application/rss+xml" />
     <image>
@@ -90,13 +90,5 @@
   <dc:creator>Catharine Edwards</dc:creator>
   <pubDate>Fri, 16 Oct 2026 10:00:00 GMT</pubDate>
   <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/2ac1e107-fd3a-4df1-9ecf-c703c8eea898/v7-dp328509.jpg?width=1200&amp;quality=75&amp;format=auto" alt="Side view of a marble bust of an elderly man with a stern expression on a dark background." /&gt;&lt;/p&gt;&lt;p&gt;Cicero’s ideal of manly virtue stressed the performance of self-control and bravery, not boastful egotism and domination&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Catharine Edwards&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
-</item><item>
-  <title>The ladder of knowledge</title>
-  <link>https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge</link>
-  <guid isPermaLink="false">urn:id:9166</guid>
-  <dc:creator>Alexander V Gheorghiu</dc:creator>
-  <pubDate>Thu, 15 Oct 2026 10:00:00 GMT</pubDate>
-  <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/2185ca1b-0c32-4af5-bcf9-3c2def289504/herbert-list-essay-par184662.jpg?width=1200&amp;quality=75&amp;format=auto" alt="Black and white photo of overlapping industrial structures with geometric patterns and shadows creating a complex design." /&gt;&lt;/p&gt;&lt;p&gt;What we claim as ‘true’ is not a ceiling we are forever failing to reach but something that changes as we climb toward it&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Alexander V Gheorghiu&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-  </channel>
+</item></channel>
 </rss>
