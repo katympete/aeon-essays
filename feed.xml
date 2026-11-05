@@ -5,7 +5,7 @@
     <description>Aeon is a magazine of ideas and culture. We publish in-depth essays from the world’s most incisive and ambitious thinkers, and a mix of original and curated videos — free to all.</description>
     <copyright>All rights reserved</copyright>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 11:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 11:01:00 GMT</lastBuildDate>
     <link>https://aeon.co</link>
     <atom:link href="https://aeon.co/feed.rss" rel="self" type="application/rss+xml" />
     <image>
@@ -14,6 +14,13 @@
       <link>https://aeon.co</link>
     </image>
     <item>
+  <title>Methodical/mercurial</title>
+  <link>https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd</link>
+  <guid isPermaLink="false">urn:id:9190</guid>
+  <dc:creator>Sarah Hendrickx</dc:creator>
+  <pubDate>Thu, 05 Nov 2026 11:00:00 GMT</pubDate>
+  <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/38d6ec42-ad97-412b-800e-8e5c327d2c8f/essay-claudio-schwarz-exb9oi0i1ha-unsplash.jpg?width=1200&amp;quality=75&amp;format=auto" alt="Abstract photo of a blurred person sitting at a desk behind textured glass, creating a warm, distorted effect." /&gt;&lt;/p&gt;&lt;p&gt;I need order and routine – just as much as I crave excitement and variety. What’s life like with both autism and ADHD?&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Sarah Hendrickx&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
+</item><item>
   <title>Believing and thinking</title>
   <link>https://aeon.co/essays/the-psychology-of-separating-church-and-state</link>
   <guid isPermaLink="false">urn:id:9197</guid>
@@ -83,12 +90,6 @@
   <dc:creator>Catherine Fletcher</dc:creator>
   <pubDate>Mon, 19 Oct 2026 10:00:00 GMT</pubDate>
   <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/d5a13b73-fa43-4d25-a1ff-05f75220297e/essay-the_battle_of_pavia_1525_by_rupert_heller_-_nationalmuseum_stockholm.jpg?width=1200&amp;quality=75&amp;format=auto" alt="A detailed painting of a historic battle scene with soldiers, horses and weapons in action, featuring vibrant colours and intricate detail." /&gt;&lt;/p&gt;&lt;p&gt;Renaissance Italians saw the gun as the Devil’s work. But soon they embraced this unchivalrous – and necessary – weapon&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Catherine Fletcher&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/the-renaissance-gun-from-diabolical-device-to-popular-militias"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
-</item><item>
-  <title>How to be a (Roman) man</title>
-  <link>https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic</link>
-  <guid isPermaLink="false">urn:id:9148</guid>
-  <dc:creator>Catharine Edwards</dc:creator>
-  <pubDate>Fri, 16 Oct 2026 10:00:00 GMT</pubDate>
-  <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/2ac1e107-fd3a-4df1-9ecf-c703c8eea898/v7-dp328509.jpg?width=1200&amp;quality=75&amp;format=auto" alt="Side view of a marble bust of an elderly man with a stern expression on a dark background." /&gt;&lt;/p&gt;&lt;p&gt;Cicero’s ideal of manly virtue stressed the performance of self-control and bravery, not boastful egotism and domination&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Catharine Edwards&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
-</item></channel>
+</item>
+  </channel>
 </rss>
