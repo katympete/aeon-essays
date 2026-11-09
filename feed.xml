@@ -5,7 +5,7 @@
     <description>Aeon is a magazine of ideas and culture. We publish in-depth essays from the world’s most incisive and ambitious thinkers, and a mix of original and curated videos — free to all.</description>
     <copyright>All rights reserved</copyright>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:01:00 GMT</lastBuildDate>
     <link>https://aeon.co</link>
     <atom:link href="https://aeon.co/feed.rss" rel="self" type="application/rss+xml" />
     <image>
@@ -14,6 +14,13 @@
       <link>https://aeon.co</link>
     </image>
     <item>
+  <title>Equality talk</title>
+  <link>https://aeon.co/essays/historical-ideas-of-equality-help-us-imagine-an-equal-world</link>
+  <guid isPermaLink="false">urn:id:9216</guid>
+  <dc:creator>Teresa M Bejan</dc:creator>
+  <pubDate>Mon, 09 Nov 2026 11:00:00 GMT</pubDate>
+  <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/f220e1d9-d115-41d2-8d6b-19080731b06a/essay-par161210.jpg?width=1200&amp;quality=75&amp;format=auto" alt="Black and white photo of a group of men in flat caps and coats, a young man sitting on a brick wall looks on." /&gt;&lt;/p&gt;&lt;p&gt;In the summer of 1646, the idea of equality gained new and profound depths. We are still catching up with the consequences&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Teresa M Bejan&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/historical-ideas-of-equality-help-us-imagine-an-equal-world"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
+</item><item>
   <title>Celestial nuisance</title>
   <link>https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions</link>
   <guid isPermaLink="false">urn:id:9188</guid>
@@ -83,12 +90,5 @@
   <dc:creator>Elizabeth Oldfield</dc:creator>
   <pubDate>Thu, 22 Oct 2026 10:00:00 GMT</pubDate>
   <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/9bc0eb2d-bb6c-4037-8408-96e841ba02b7/essay-photo-.jpg?width=1200&amp;quality=75&amp;format=auto" alt="A group hug in a shed doorway, with people embracing closely. Blue walls, metal roof and a door are visible." /&gt;&lt;/p&gt;&lt;p&gt;Disconnection is at the heart of today’s crises. So my husband and I chose a radical and revealing remedy: living communally&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Elizabeth Oldfield&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
-</item><item>
-  <title>How intuitions work</title>
-  <link>https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how</link>
-  <guid isPermaLink="false">urn:id:9159</guid>
-  <dc:creator>Marc A Moffett</dc:creator>
-  <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
-  <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/ebbfc9dd-2883-4780-837a-43887f0fbdb5/pessay-ar211874.jpg?width=1200&amp;quality=75&amp;format=auto" alt="Black and white photo of two men shaking hands while a woman looks on with a wary expression, set in an urban environment." /&gt;&lt;/p&gt;&lt;p&gt;Just as seeing a tree gives you reason to believe it’s there, sensing that a stranger is creepy gives you reason to walk away&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Marc A Moffett&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
 </item></channel>
 </rss>
