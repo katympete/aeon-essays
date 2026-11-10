@@ -5,7 +5,7 @@
     <description>Aeon is a magazine of ideas and culture. We publish in-depth essays from the world’s most incisive and ambitious thinkers, and a mix of original and curated videos — free to all.</description>
     <copyright>All rights reserved</copyright>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 11:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 11:00:00 GMT</lastBuildDate>
     <link>https://aeon.co</link>
     <atom:link href="https://aeon.co/feed.rss" rel="self" type="application/rss+xml" />
     <image>
@@ -14,6 +14,13 @@
       <link>https://aeon.co</link>
     </image>
     <item>
+  <title>The wholehearted life</title>
+  <link>https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life</link>
+  <guid isPermaLink="false">urn:id:9230</guid>
+  <dc:creator>Ben Daitz</dc:creator>
+  <pubDate>Tue, 10 Nov 2026 11:00:00 GMT</pubDate>
+  <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/1f0bf1c6-e0ad-490d-b4c1-685617a95d62/essay-from-kodo-dsc02003.jpg?width=1200&amp;quality=75&amp;format=auto" alt="A smiling elderly woman in traditional attire holding a brush, standing against a red textured background." /&gt;&lt;/p&gt;&lt;p&gt;Roshi Joan Halifax is an original, generous, gritty and profound Buddhist teacher. How does she look back on her life?&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Ben Daitz&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
+</item><item>
   <title>Equality talk</title>
   <link>https://aeon.co/essays/historical-ideas-of-equality-help-us-imagine-an-equal-world</link>
   <guid isPermaLink="false">urn:id:9216</guid>
@@ -90,5 +97,6 @@
   <dc:creator>Elizabeth Oldfield</dc:creator>
   <pubDate>Thu, 22 Oct 2026 10:00:00 GMT</pubDate>
   <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/9bc0eb2d-bb6c-4037-8408-96e841ba02b7/essay-photo-.jpg?width=1200&amp;quality=75&amp;format=auto" alt="A group hug in a shed doorway, with people embracing closely. Blue walls, metal roof and a door are visible." /&gt;&lt;/p&gt;&lt;p&gt;Disconnection is at the heart of today’s crises. So my husband and I chose a radical and revealing remedy: living communally&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Elizabeth Oldfield&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
-</item></channel>
+</item>
+  </channel>
 </rss>
