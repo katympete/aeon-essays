@@ -5,7 +5,7 @@
     <description>Aeon is a magazine of ideas and culture. We publish in-depth essays from the world’s most incisive and ambitious thinkers, and a mix of original and curated videos — free to all.</description>
     <copyright>All rights reserved</copyright>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 11:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 11:00:00 GMT</lastBuildDate>
     <link>https://aeon.co</link>
     <atom:link href="https://aeon.co/feed.rss" rel="self" type="application/rss+xml" />
     <image>
@@ -14,6 +14,13 @@
       <link>https://aeon.co</link>
     </image>
     <item>
+  <title>Fugitive imagination</title>
+  <link>https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world</link>
+  <guid isPermaLink="false">urn:id:9200</guid>
+  <dc:creator>Shahram Khosravi</dc:creator>
+  <pubDate>Fri, 13 Nov 2026 11:00:00 GMT</pubDate>
+  <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/250df91b-cb37-49ba-b1b1-4c14f75bb40e/essay-panos_00206717.jpg?width=1200&amp;quality=75&amp;format=auto" alt="Two women wearing headscarves and a man with a child on his shoulders walking past, viewed through a large rectangular hole in a wall painted with a mural of a man in ancient Greek attire." /&gt;&lt;/p&gt;&lt;p&gt;Wherever people are confined, displaced, silenced or made disposable, fugitive forms of knowledge and imagination emerge&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Shahram Khosravi&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
+</item><item>
   <title>Why anything exists</title>
   <link>https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing</link>
   <guid isPermaLink="false">urn:id:9211</guid>
@@ -83,13 +90,5 @@
   <dc:creator>Derek van Zoonen</dc:creator>
   <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
   <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/e4ffcd43-fc58-49e0-9596-99b6020acfca/essay-v2-nyc117497.jpg?width=1200&amp;quality=75&amp;format=auto" alt="A person walking uphill on a snowy slope against a cloudy sky with wind-blown snow patterns." /&gt;&lt;/p&gt;&lt;p&gt;Grief is not only for the dead. When we are unable to honour other profound losses, we become strangers to ourselves&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Derek van Zoonen&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
-</item><item>
-  <title>How to build real peace</title>
-  <link>https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like</link>
-  <guid isPermaLink="false">urn:id:9189</guid>
-  <dc:creator>Azize Aslan</dc:creator>
-  <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
-  <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/8fd10da1-aaf3-42db-bfbe-7a7fe5af1814/v1-essay-gettyimages-1076552638.jpg?width=1200&amp;quality=75&amp;format=auto" alt="Soldiers in a dimly lit room, some standing and some seated on a patterned floor with sunlight streaming through a window behind them." /&gt;&lt;/p&gt;&lt;p&gt;From Colombia to Syria, I’ve seen that capitalist logic can’t help to rebuild postwar countries but cooperatives can&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Azize Aslan&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-  </channel>
+</item></channel>
 </rss>
