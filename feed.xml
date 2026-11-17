@@ -5,7 +5,7 @@
     <description>Aeon is a magazine of ideas and culture. We publish in-depth essays from the world’s most incisive and ambitious thinkers, and a mix of original and curated videos — free to all.</description>
     <copyright>All rights reserved</copyright>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 11:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:00:00 GMT</lastBuildDate>
     <link>https://aeon.co</link>
     <atom:link href="https://aeon.co/feed.rss" rel="self" type="application/rss+xml" />
     <image>
@@ -14,6 +14,13 @@
       <link>https://aeon.co</link>
     </image>
     <item>
+  <title>Catwalks and crackdowns</title>
+  <link>https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran</link>
+  <guid isPermaLink="false">urn:id:9191</guid>
+  <dc:creator>Parisa Khoshnami</dc:creator>
+  <pubDate>Tue, 17 Nov 2026 11:00:00 GMT</pubDate>
+  <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/aadc8bad-88e2-4670-bc0a-b6a8c5190408/essay-gettyimages-2294390691.jpg?width=1200&amp;quality=75&amp;format=auto" alt="Two young women with red hair, one on a phone, in front of a wall covered with various drawings and a sign in Persian." /&gt;&lt;/p&gt;&lt;p&gt;Women in Tehran are changing society by dressing as they choose, in numbers too large to stop. This is the ‘art of presence’&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Parisa Khoshnami&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
+</item><item>
   <title>The horse made the state</title>
   <link>https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist</link>
   <guid isPermaLink="false">urn:id:9183</guid>
@@ -90,5 +97,6 @@
   <dc:creator>Zahaan Bharmal</dc:creator>
   <pubDate>Thu, 29 Oct 2026 10:00:00 GMT</pubDate>
   <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/afb6d18f-037c-451b-a48b-e7420fcaa8b4/essay-v1-test-v1-jiran-family-4srj_3nontc-unsplash.jpg?width=1200&amp;quality=75&amp;format=auto" alt="A frosted glass door with metal handle, card reader and a number 0 sign on a beige wall, indoors." /&gt;&lt;/p&gt;&lt;p&gt;Physics offered me a sense of order and purpose. But when life got messy I realised it had a much deeper insight to give&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Zahaan Bharmal&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
-</item></channel>
+</item>
+  </channel>
 </rss>
