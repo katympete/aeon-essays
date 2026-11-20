@@ -5,7 +5,7 @@
     <description>Aeon is a magazine of ideas and culture. We publish in-depth essays from the world’s most incisive and ambitious thinkers, and a mix of original and curated videos — free to all.</description>
     <copyright>All rights reserved</copyright>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 11:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:00:00 GMT</lastBuildDate>
     <link>https://aeon.co</link>
     <atom:link href="https://aeon.co/feed.rss" rel="self" type="application/rss+xml" />
     <image>
@@ -14,6 +14,13 @@
       <link>https://aeon.co</link>
     </image>
     <item>
+  <title>My grandmother was a seal</title>
+  <link>https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family</link>
+  <guid isPermaLink="false">urn:id:9214</guid>
+  <dc:creator>Jordan Lee Borgman</dc:creator>
+  <pubDate>Fri, 20 Nov 2026 11:00:00 GMT</pubDate>
+  <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/0cd99f4c-ddf6-43aa-b167-ea096fe4a0e7/essay-selkie-final-illustration.jpg?width=1200&amp;quality=75&amp;format=auto" alt="Abstract painting of a figure swimming underwater with fish and light beams illuminating the scene." /&gt;&lt;/p&gt;&lt;p&gt;Many Irish families believed they descended from selkies. Their stories reveal the violence and grief in our kinship with nature&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Jordan Lee Borgman&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
+</item><item>
   <title>At least it remembers</title>
   <link>https://aeon.co/essays/what-would-parenting-by-ai-look-like</link>
   <guid isPermaLink="false">urn:id:9227</guid>
@@ -83,13 +90,5 @@
   <dc:creator>Neil Van Leeuwen &amp; Jacob Eisler</dc:creator>
   <pubDate>Tue, 03 Nov 2026 11:00:00 GMT</pubDate>
   <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/40611a3c-3e4d-417a-b2a9-5d3ec4f128a0/essay-gettyimages-1431136250.jpg?width=1200&amp;quality=75&amp;format=auto" alt="A foggy road leading to a distant church, flanked by trees, a building and powerlines, creating an eerie atmosphere." /&gt;&lt;/p&gt;&lt;p&gt;The separation of church and state has an unspoken psychological basis: we choose what we believe, but not what we think&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Neil Van Leeuwen &amp; Jacob Eisler&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/the-psychology-of-separating-church-and-state"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
-</item><item>
-  <title>The self-making world</title>
-  <link>https://aeon.co/essays/the-self-making-world-of-jean-baptiste-lamarck</link>
-  <guid isPermaLink="false">urn:id:9210</guid>
-  <dc:creator>Jessica Riskin</dc:creator>
-  <pubDate>Mon, 02 Nov 2026 11:00:00 GMT</pubDate>
-  <description>&lt;p&gt;&lt;img src="https://images.aeonmedia.co/images/e7ea39c8-e023-47fb-820f-7a6d68ed3928/essay-humpbacks.jpg?width=1200&amp;quality=75&amp;format=auto" alt="A group of whales surfacing in a green sea near a rocky forested shoreline." /&gt;&lt;/p&gt;&lt;p&gt;Long mocked and misunderstood, Lamarck’s radical idea that organisms shape themselves and their world is making a comeback&lt;/p&gt;&lt;p&gt;&lt;em&gt;- by Jessica Riskin&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://aeon.co/essays/the-self-making-world-of-jean-baptiste-lamarck"&gt;Read on Aeon&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-  </channel>
+</item></channel>
 </rss>
